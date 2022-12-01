@@ -8,6 +8,8 @@ TagManager:
   - Left hand
   - Ray
   - Whiteboard
+  - LipSync
+  - AvatarManager
   layers:
   - Default
   - TransparentFX
